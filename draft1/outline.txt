@@ -12,3 +12,5 @@ TwoPointer
 BIB O 
 Shorting(QS, Merge)
 greediness
+Could be more
+And the redundance also
