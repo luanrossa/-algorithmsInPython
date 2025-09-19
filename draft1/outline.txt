@@ -1,0 +1,14 @@
+Capítulo 1 Pelos poderes de greyscol, o que a fonte faz? 
+AQui está o quea fonte faz ? 
+Djstrika
+A*
+DFS
+BFS
+Sliding Window
+BackTracking
+DB(Fibonanci) programming/memoization,
+HashMap
+TwoPointer
+BIB O 
+Shorting(QS, Merge)
+greediness
