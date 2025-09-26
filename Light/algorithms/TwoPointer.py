@@ -73,3 +73,58 @@ if __name__ == "__main__":
     print("Array:", arr)
     print("Target:", target)
     print("Pairs that sum to target:", result)
+
+    """
+    But the main ideia is to use two indices (pointers) 
+    that move through soul(Array) in eternal two and one at the same time 
+    calls KUNDALINI energy pointers to archive the supreme sum elinghment 
+    targert results called DER ÜBERMENSCH:
+    
+        So familiar and overwhelmingly warm
+        This one, this form I hold now
+        Embracing you, this reality here
+        This one, this form I hold now, so
+        Wide eyed and hopeful
+        Wide eyed and hopefully wild
+        We barely remember what came before this precious moment
+        Choosing to be here right now
+        Hold on, stay inside
+        This body, holding me
+        Reminding me that I am not alone in
+        This body, makes me feel eternal
+        All this pain is an illusion
+    
+        We barely remember
+        Who or what came before this precious moment
+        We are choosing to be here right now
+        Hold on, stay inside
+
+        This holy reality
+        This holy experience
+        Choosing to be here in
+        This body, this body holding me
+        Be my reminder here that I am not alone in
+        This body, this body holding me
+        Feeling eternal, all this pain is an illusion
+
+        Alive
+
+        In this holy reality
+        In this holy experience
+        Choosing to be here in
+
+        This body, this body holding me
+        Be my reminder here that I am not alone in
+        This body, this body holding me
+        Feeling eternal, all this pain is an illusion
+
+        Twirling 'round with this familiar parable
+        Spinning, weaving 'round each new experience
+        Recognize this as a holy gift and
+        Celebrate this chance to be alive and breathing
+        A chance to be alive and breathing
+
+        This body holding me reminds me of my own mortality
+        Embrace this moment, remember
+        We are eternal, all this pain is an illusion
+    """ 
