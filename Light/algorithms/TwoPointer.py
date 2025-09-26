@@ -77,8 +77,8 @@ if __name__ == "__main__":
     """
     But the main ideia is to use two indices (pointers) 
     that move through soul(Array) in eternal two and one at the same time 
-    calls KUNDALINI energy pointers to archive the supreme sum elinghment 
-    targert results called DER ÜBERMENSCH:
+    calls KUNDALINI energy pointers to archive the supreme result 
+    sum enlinghment targert results called DER ÜBERMENSCH:
     
         So familiar and overwhelmingly warm
         This one, this form I hold now
