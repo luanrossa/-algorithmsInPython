@@ -2,7 +2,7 @@
 Breadth-First Search (BFS) Algorithm in Python
 ----------------------------------------------
 
-🔎 What is BFS?
+What is BFS?
 - BFS is a graph traversal algorithm.
 - It starts from a source node and explores all its neighbors first,
   before moving to the next level of neighbors.
@@ -13,7 +13,7 @@ Breadth-First Search (BFS) Algorithm in Python
 2. Keeps a 'visited' set to avoid revisiting nodes.
 3. Ensures level-order traversal, making it useful to find the shortest path in unweighted graphs.
 
-🛠️ Procedure:
+Procedure:
 1. Start with the source node.
 2. Mark it visited and enqueue it.
 3. While the queue is not empty:
@@ -21,11 +21,11 @@ Breadth-First Search (BFS) Algorithm in Python
    - Visit it (record it).
    - Enqueue all its unvisited neighbors.
 
-📊 Complexity:
+Complexity:
 - Time: O(V + E), where V = vertices, E = edges.
 - Space: O(V), for the visited set and queue.
 
-🎯 Use Cases:
+Use Cases:
 - Shortest path in unweighted graphs (e.g., mazes, networks).
 - Crawling/searching in networks or web pages.
 - Level-order traversal of trees.

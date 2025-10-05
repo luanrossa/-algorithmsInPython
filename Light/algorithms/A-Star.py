@@ -1,6 +1,27 @@
+"""
+A* (A-Star) Pathfinding Algorithm
+
+Description:
+    Finds the shortest path from a start node to a goal node in a graph or grid.
+
+How it works:
+    - Maintains an open set of nodes to explore and a closed set of visited nodes.
+    - For each node, calculates:
+        * g(n): cost from start to the current node
+        * h(n): heuristic estimate to the goal (e.g., Manhattan distance)
+        * f(n) = g(n) + h(n): total estimated cost
+    - Repeatedly selects the node with the lowest f(n) from the open set, expands it,
+      updates neighbors, and moves the node to the closed set.
+    - Stops when the goal node is reached or no path exists.
+
+Notes:
+    - The heuristic h(n) must not overestimate to guarantee the shortest path.
+    - Works efficiently for grids, maps, and general graphs.
+"""
+
+
 # The name of this arciive was 'A*.py' but the '*' character is not allowed in file names on some systems.
 # So I renamed it to 'A-Star.py'.
-#AMAT VICTORIA CURAM 
 import heapq
 
 # -------------------------------

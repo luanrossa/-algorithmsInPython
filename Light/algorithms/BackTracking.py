@@ -1,7 +1,24 @@
-# ---------------------------------------------
-# Backtracking Algorithm - N Queens Problem
-# Author: Luan Rossa
-# ---------------------------------------------
+"""
+Backtracking Algorithm - N Queens Problem
+Author: Luan Rossa
+
+Description:
+    Solves the N-Queens problem by placing N queens on an N x N chessboard
+    such that no two queens threaten each other.
+
+How it works:
+    - Uses backtracking to explore possible queen placements row by row.
+    - For each row, attempts to place a queen in every column.
+    - Checks if the position is safe (no conflicts in column, upper-left, or upper-right diagonals).
+    - If safe, places the queen and recurses to the next row.
+    - If a dead end is reached, backtracks by removing the queen and trying the next column.
+    - Prints each valid solution when all N queens are successfully placed.
+
+Notes:
+    - Recursive approach ensures all solutions are explored efficiently.
+    - Board is represented as a 2D list, with 'Q' for queens and '.' for empty spaces.
+"""
+
 
 def print_board(board):
     """
