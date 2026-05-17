@@ -75,3 +75,15 @@ if __name__ == "__main__":
     # Binary search
     index_binary = binary_search(arr, target)
     print("Binary Search (O(log n)) result:", index_binary)
+
+# --------------------------------------
+# Philosophical Context
+# When a person of strong intellect is confronted with a problem
+# which call for the use of reasoning faculties, they keep their poise and 
+# and attempt to reach a solution by gernering facts bearing upon the question. 
+# On the other hand, those who are immatur, when confronted by the same 
+# problem, are overwhelmed. Wlihe the former may be said to be quailfied to 
+# solve the mystery of their own destiny, the latter must be led like a bunch
+# of animals and taught in the simplest language. Like sheep they are totally 
+# dependent upon the shepherd. 
+# -------------------------------------- 
